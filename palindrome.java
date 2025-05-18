@@ -10,9 +10,9 @@ class PalindromeExample{
    n=n/10;    
   }    
   if(temp==sum)    
-   System.out.println("a palindrome number ");    
+   System.out.println("it is a palindrome number ");    
   else    
-   System.out.println(" not a palindrome number");    
+   System.out.println(" it is not a palindrome number");    
 }  
 }  
-i have made a change
+i have made changes
